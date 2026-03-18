@@ -1,0 +1,98 @@
+{
+  "version": "3.111.36326.0",
+  "course_id": "6fG9JjsdMKo",
+  "title": "individu pn shima kete",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Intro Scene"
+    },
+    {
+      "title": "Color-Changing Quiz Timer Template"
+    },
+    {
+      "title": "DRAGDROP"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5wBLg4hz1Wl",
+      "title": "PRESS TO START",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6DTTaMEi1KY",
+      "title": "LOBBY HUB",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6nJYaSqVpBp",
+      "title": "MENU HUB",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "67aKz0PU56j",
+      "title": "Quiz Title",
+      "scene_index": "2.1"
+    },
+    {
+      "id": "6ieqFHz71Hz",
+      "title": "Multiple Choice",
+      "scene_index": "2.2"
+    },
+    {
+      "id": "6As7bTikzzn",
+      "title": "Multiple Choice",
+      "scene_index": "2.3"
+    },
+    {
+      "id": "5ezI5jXOorG",
+      "title": "Multiple Choice",
+      "scene_index": "2.4"
+    },
+    {
+      "id": "5VpNiJrdW8Z",
+      "title": "Multiple Choice",
+      "scene_index": "2.5"
+    },
+    {
+      "id": "6HHkKMPLHNO",
+      "title": "Multiple Choice",
+      "scene_index": "2.6"
+    },
+    {
+      "id": "610IaxEY4AL",
+      "title": "Multiple Choice",
+      "scene_index": "2.7"
+    },
+    {
+      "id": "5gJhdmrXEiJ",
+      "title": "You made it!",
+      "scene_index": "2.8"
+    },
+    {
+      "id": "6RGXLdRYhSu",
+      "title": "Untitled Slide",
+      "scene_index": "3.1"
+    },
+    {
+      "id": "6n8ftJc5xf7",
+      "title": "Drag and Drop",
+      "scene_index": "3.2"
+    },
+    {
+      "id": "5dGuYKBvZGL",
+      "title": "Results Slide",
+      "scene_index": "3.3"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1060,
+    "height": 718
+  },
+  "stage": {
+    "width": 800,
+    "height": 600
+  }
+}
